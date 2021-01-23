@@ -1,10 +1,11 @@
+
 <?php
 	if(!isset($_GET['a'])) $_GET['a']=5;
 	if(!isset($_GET['b'])) $_GET['b']=4;
 	
 ?>
 
-<b><H3>Determina el área de un pentágono regular cuyo lado es de 5 cm y cuya apotema vale 4 cm</H3></b></br>
+<b><H3>Determina el área de un pentágono regular cuyo lado es de 5 cm y cuya apotema vale 4 cm</H3></b>
 
 <center>	
 <table>																													</br>	

@@ -4,7 +4,7 @@
 ?>
 
 <b><H3>Queremos fabricar una caja de base cuadrada, de tal manera que la altura de la caja más el perímetro de la base sumen 60 cm.
- Determina sus dimensiones para que contenga el mayor volumen posible</H3></b></br>
+ Determina sus dimensiones para que contenga el mayor volumen posible</H3></b>
 
 <center>	
 <table>																													</br>	
@@ -20,6 +20,7 @@
 </table>
 </form>
 </center>
+</br>
 </br>
 <center><b>JAVA SCRIPT</b></center>
 Base<div id="resultado" style=" 
